@@ -1,0 +1,4 @@
+javadoc/
+*.class
+*.jar
+MANIFEST
