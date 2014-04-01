@@ -1,4 +1,4 @@
 javadoc/
 *.class
 *.jar
-MANIFEST
+MANIFEST.MF
