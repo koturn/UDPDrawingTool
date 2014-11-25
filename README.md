@@ -88,3 +88,8 @@ $ ant javadoc
 ```sh
 $ make javadoc
 ```
+
+
+## LICENSE
+
+This software is released under the MIT License, see [LICENSE](LICENSE).
